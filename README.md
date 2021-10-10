@@ -16,6 +16,7 @@ Python client for the Apache Kafka distributed stream processing system.
 | [#2207](https://github.com/dpkp/kafka-python/pull/2207) | Fix description of kafka producer config | |
 
 ## [mysql-server](https://github.com/mysql/mysql-server)
+(allegedly) The world's most popular open source database.
 | PR | summary | released in |
 | -- | ------- | ----------- |
 | [#367](https://bugs.mysql.com/bug.php?id=105144) | Update oudated system variable list | |
