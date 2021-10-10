@@ -8,6 +8,7 @@ Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 | [#351](https://github.com/noplay/python-mysql-replication/pull/351) | Support zerofill attribute for numeric datatypes | [0.25](https://pypi.org/project/mysql-replication/0.25/) |
 | [#352](https://github.com/noplay/python-mysql-replication/pull/352) | Fix formula for time datatype | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
 | [#355](https://github.com/noplay/python-mysql-replication/pull/355) | Parse partition info in row event (MySQL 8.X) | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
+| | Parse nullability in table map event | |
 
 ## [mysql-server](https://github.com/mysql/mysql-server)
 (allegedly) The world's most popular open source database.
