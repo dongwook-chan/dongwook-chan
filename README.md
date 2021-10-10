@@ -9,17 +9,18 @@ Pure Python Implementation of MySQL replication protocol build on top of PyMYSQL
 | [#352](https://github.com/noplay/python-mysql-replication/pull/352) | Fix formula for time datatype | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
 | [#355](https://github.com/noplay/python-mysql-replication/pull/355) | Parse partition info in row event (MySQL 8.X) | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
 
+## [mysql-server](https://github.com/mysql/mysql-server)
+(allegedly) The world's most popular open source database.
+| PR | summary | released in |
+| -- | ------- | ----------- |
+| [#367](https://bugs.mysql.com/bug.php?id=105144) | Update oudated system variable list | |
+
 ## [kafka-python](https://github.com/dpkp/kafka-python)
 Python client for the Apache Kafka distributed stream processing system.
 | PR | summary | released in |
 | -- | ------- | ----------- |
 | [#2207](https://github.com/dpkp/kafka-python/pull/2207) | Fix description of kafka producer config | |
 
-## [mysql-server](https://github.com/mysql/mysql-server)
-(allegedly) The world's most popular open source database.
-| PR | summary | released in |
-| -- | ------- | ----------- |
-| [#367](https://bugs.mysql.com/bug.php?id=105144) | Update oudated system variable list | |
 
 # My problem solving skill is at...
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dongwook)](https://solved.ac/dongwook)
