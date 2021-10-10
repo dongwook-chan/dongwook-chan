@@ -22,6 +22,12 @@ Python client for the Apache Kafka distributed stream processing system.
 | -- | ------- | ----------- |
 | [#2207](https://github.com/dpkp/kafka-python/pull/2207) | Fix description of kafka producer config | |
 
+# My contribution at work includes...
+## [Tibero](https://www.tmaxsoft.com/products/tibero/)
+Parse complex oracle join predicates with multiple tables and columns specified.
+
+## LOMIO
+Developed LOMIO, in-house solution for real-time CDC at Kakao Corp.
 
 # My problem solving skill is at...
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dongwook)](https://solved.ac/dongwook)
