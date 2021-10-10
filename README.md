@@ -27,7 +27,7 @@ Python client for the Apache Kafka distributed stream processing system.
 Parse complex oracle join predicates with multiple tables and columns specified.
 
 ## LOMIO
-Developed LOMIO, in-house solution for real-time CDC at Kakao Corp.
+Developed LOMIO, in-house solution for real-time [CDC](https://en.wikipedia.org/wiki/Change_data_capture) at Kakao Corp.
 
 # My problem solving skill is at...
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dongwook)](https://solved.ac/dongwook)
