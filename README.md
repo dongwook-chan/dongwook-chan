@@ -35,7 +35,8 @@ Developed LOMIO, in-house solution for real-time [CDC](https://en.wikipedia.org/
 ## [Baekjoon Online Judge](https://www.acmicpc.net/)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dongwook)](https://solved.ac/dongwook)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="498fcbba-977d-4edb-a75f-8cf89feac25f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!--
 **dongwook-chan/dongwook-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
