@@ -7,7 +7,7 @@ Pure Python Implementation of MySQL replication protocol.
 | [#350](https://github.com/noplay/python-mysql-replication/pull/350) | Fix description of GTID interval | [0.25](https://pypi.org/project/mysql-replication/0.25/) |
 | [#351](https://github.com/noplay/python-mysql-replication/pull/351) | Support zerofill attribute for numeric datatypes | [0.25](https://pypi.org/project/mysql-replication/0.25/) |
 | [#352](https://github.com/noplay/python-mysql-replication/pull/352) | Fix formula for time datatype | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
-| [#355](https://github.com/noplay/python-mysql-replication/pull/355) | Parse partition info in row event (MySQL 8.X) | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
+| [#355](https://github.com/noplay/python-mysql-replication/pull/355) | Parse partition info in row event (>= MySQL 8.0.16) | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
 | [#357](https://github.com/noplay/python-mysql-replication/pull/357) | Add support for specifying an end log_pos | |
 | [#360](https://github.com/noplay/python-mysql-replication/pull/360) | Parse status variables in query event | |
 | [#361](https://github.com/noplay/python-mysql-replication/pull/361) | Parse nullability in table map event | |
