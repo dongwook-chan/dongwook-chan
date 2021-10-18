@@ -6,7 +6,7 @@ on:
   schedule:
     # Runs at 2am UTC
     #- cron: "0 2 * * *"
-    - cron: "16 * * * *"
+    - cron: "30 * * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -14,4 +14,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
+        with:
           CREDLY_USER: dongwook-chang
