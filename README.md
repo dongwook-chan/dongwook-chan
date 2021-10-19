@@ -8,9 +8,9 @@ Pure Python Implementation of MySQL replication protocol.
 | [#351](https://github.com/noplay/python-mysql-replication/pull/351) | Support zerofill attribute for numeric datatypes | [0.25](https://pypi.org/project/mysql-replication/0.25/) |
 | [#352](https://github.com/noplay/python-mysql-replication/pull/352) | Fix formula for MySQL TIME datatype | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
 | [#355](https://github.com/noplay/python-mysql-replication/pull/355) | Parse partition info in row event (>= MySQL 8.0.16) | [0.26](https://pypi.org/project/mysql-replication/0.26/) |
-| [#357](https://github.com/noplay/python-mysql-replication/pull/357) | Add support for end_log_pos parameter | |
-| [#360](https://github.com/noplay/python-mysql-replication/pull/360) | Parse status variables in query event | |
-| [#361](https://github.com/noplay/python-mysql-replication/pull/361) | Parse nullability in table map event | |
+| [#357](https://github.com/noplay/python-mysql-replication/pull/357) | Add support for end_log_pos parameter | [0.27](https://pypi.org/project/mysql-replication/0.27/) |
+| [#360](https://github.com/noplay/python-mysql-replication/pull/360) | Parse status variables in query event | [0.27](https://pypi.org/project/mysql-replication/0.27/) |
+| [#361](https://github.com/noplay/python-mysql-replication/pull/361) | Parse nullability in table map event | [0.27](https://pypi.org/project/mysql-replication/0.27/) |
 
 ## [mysql-server](https://github.com/mysql/mysql-server)
 (allegedly) The world's most popular open source database.
