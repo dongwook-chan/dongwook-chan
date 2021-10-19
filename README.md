@@ -37,6 +37,7 @@ Developed LOMIO, in-house solution for real-time [CDC](https://en.wikipedia.org/
 
 # My badges...
 <!--START_SECTION:badges-->
+
 [![Oracle Database 11g Administrator Certified Professional](https://images.credly.com/size/110x110/images/2bca0d1f-1b05-4e5d-aee8-ec154344e57b/Oracle-Certification-badge_OC-Professional600X600.png)](http://www.credly.com/badges/498fcbba-977d-4edb-a75f-8cf89feac25f "Oracle Database 11g Administrator Certified Professional")
 [![Oracle Database 11g Administrator Certified Associate](https://images.credly.com/size/110x110/images/669408ac-d4de-48d8-8af4-2fea8914ea89/Oracle-Certification-badge_OC-Associate600X600.png)](http://www.credly.com/badges/14c6d3fa-5fe5-4365-98d4-e7ef4c4a4870 "Oracle Database 11g Administrator Certified Associate")
 <!--END_SECTION:badges-->
