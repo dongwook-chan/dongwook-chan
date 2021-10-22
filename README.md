@@ -14,9 +14,10 @@ Pure Python Implementation of MySQL replication protocol.
 
 ## [mysql-server](https://github.com/mysql/mysql-server)
 (allegedly) The world's most popular open source database.
-| PR | summary | released in |
+| bug# | summary | released in |
 | -- | ------- | ----------- |
-| [#367](https://bugs.mysql.com/bug.php?id=105144) | Update oudated system variable list | |
+| [#105144](https://bugs.mysql.com/bug.php?id=105144) | Update oudated system variable list | |
+| [#105297](https://bugs.mysql.com/bug.php?id=105144) | Fix length formula for null-bitmask field in table map event | |
 
 ## [kafka-python](https://github.com/dpkp/kafka-python)
 Python client for the Apache Kafka distributed stream processing system.
