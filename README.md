@@ -30,7 +30,7 @@ Python client for the Apache Kafka distributed stream processing system.
 ## [Tibero](https://www.tmaxsoft.com/products/tibero/)
 Parse complex oracle join predicates with multiple tables specified.
 
-## LOMIO
+## [LOMIO](https://if.kakao.com/2020/session/99)
 Developed LOMIO, in-house solution for real-time [CDC](https://en.wikipedia.org/wiki/Change_data_capture) at [Kakao Corp](https://www.kakaocorp.com/page/?lang=ENG&tab=all).
 
 # My problem solving skills are at...
