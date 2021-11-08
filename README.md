@@ -35,7 +35,7 @@ Developed LOMIO, in-house solution for real-time [CDC](https://en.wikipedia.org/
 
 # My problem solving skills are at...
 ## [Baekjoon Online Judge](https://www.acmicpc.net/)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dongwook)](https://solved.ac/dongwook)
+[![GOLD 1](http://mazassumnida.wtf/api/generate_badge?boj=dongwook)](https://solved.ac/dongwook)
 
 # My badges...
 <!--START_SECTION:badges-->
