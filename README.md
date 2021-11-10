@@ -17,7 +17,7 @@ Pure Python Implementation of MySQL replication protocol.
 | bug# | summary | released in |
 | -- | ------- | ----------- |
 | [#105144](https://bugs.mysql.com/bug.php?id=105144) | Update oudated system variable list | |
-| [#105297](https://bugs.mysql.com/bug.php?id=105144) | Fix length formula for null-bitmask field in table map event | |
+| [#105297](https://bugs.mysql.com/bug.php?id=105297) | Fix length formula for null-bitmask field in table map event | |
 | [#105300](https://bugs.mysql.com/bug.php?id=105300) | Update oudated system variable list | |
 
 ## [kafka-python](https://github.com/dpkp/kafka-python)
