@@ -1,6 +1,6 @@
 # My contribution to open source includes...
 ## [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
-Pure Python Implementation of MySQL replication protocol.
+Pure Python implementation of MySQL replication protocol.
 | PR | summary | released in |
 | -- | ------- | ----------- |
 | [#342](https://github.com/noplay/python-mysql-replication/pull/342) | Fix description of table map event | [0.24](https://pypi.org/project/mysql-replication/0.24/) |
