@@ -11,7 +11,7 @@ Pure Python implementation of MySQL replication protocol.
 | [#357](https://github.com/noplay/python-mysql-replication/pull/357) | Add support for end_log_pos parameter | [0.27](https://pypi.org/project/mysql-replication/0.27/) |
 | [#360](https://github.com/noplay/python-mysql-replication/pull/360) | Parse status variables in query event | [0.27](https://pypi.org/project/mysql-replication/0.27/) |
 | [#361](https://github.com/noplay/python-mysql-replication/pull/361) | Parse nullability in table map event | [0.27](https://pypi.org/project/mysql-replication/0.27/) |
-| [#369](https://github.com/noplay/python-mysql-replication/pull/369) | Bug fix for PR#360 | |
+| [#369](https://github.com/noplay/python-mysql-replication/pull/369) | Bug fix for PR#360 | 0.29 |
 
 ## [mysql-server](https://github.com/mysql/mysql-server)
 (allegedly) The world's most popular open source database.
