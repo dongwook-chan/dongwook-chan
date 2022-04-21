@@ -30,6 +30,7 @@ Python client for the Apache Kafka distributed stream processing system.
 # My contribution at work includes...
 ## TmaxTibero
 - Developed [Tibero](https://www.tmaxsoft.com/products/tibero/), high-performance, highly secure and highly scalable RDBMS.
+  - Enhancement: Parse `INSERT SELECT` for Tibero8.
   - Enhancement: Parse complex oracle join predicates with multiple tables specified.
 
 ## Kakao
