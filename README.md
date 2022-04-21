@@ -33,7 +33,7 @@ Developed Tibero, high-performance, highly secure and highly scalable RDBMS.
 - Enhancement: Parse complex oracle join predicates with multiple tables specified.
 
 ## [LOMIO](https://if.kakao.com/2020/session/99)
-Developed LOMIO, in-house solution for real-time [CDC](https://en.wikipedia.org/wiki/Change_data_capture) at [Kakao Corp](https://www.kakaocorp.com/page/?lang=ENG&tab=all).
+Developed LOMIO, in-house solution for real-time [CDC](https://en.wikipedia.org/wiki/Change_data_capture) at [Kakao Corp](https://www.kakaocorp.com/page/?lang=ENG&tab=all).  
 Developed DAVINCI, in-house solution for importing large files to RDBMS. 
 
 # My problem solving skills are at...
