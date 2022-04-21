@@ -28,8 +28,8 @@ Python client for the Apache Kafka distributed stream processing system.
 | [#2207](https://github.com/dpkp/kafka-python/pull/2207) | Fix description of kafka producer config | |
 
 # My contribution at work includes...
-## [TmaxTibero](https://www.tmaxsoft.com/products/tibero/)
-- Developed Tibero, high-performance, highly secure and highly scalable RDBMS.
+## TmaxTibero
+- Developed [Tibero](https://www.tmaxsoft.com/products/tibero/), high-performance, highly secure and highly scalable RDBMS.
   - Enhancement: Parse complex oracle join predicates with multiple tables specified.
 
 ## Kakao
