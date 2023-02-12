@@ -34,7 +34,7 @@ Python client for the Apache Kafka distributed stream processing system.
   - Enhancement: Parse complex oracle join predicates with multiple tables specified.
 
 ## [Kakao](https://www.kakaocorp.com/page/?lang=ENG&tab=all)
-- Developed [LOMIO](https://if.kakao.com/2020/session/99), in-house solution for real-time [CDC](https://en.wikipedia.org/wiki/Change_data_capture).  
+- Developed [LOMIO](https://elseif.kakao.com/2020/session/99), in-house solution for real-time [CDC](https://en.wikipedia.org/wiki/Change_data_capture).  
 - Developed DAVINCI, in-house solution for importing large files to RDBMS. 
 
 # My problem solving skills are at...
