@@ -36,7 +36,7 @@ Python client for the Apache Kafka distributed stream processing system.
 ## [Kakao](https://www.kakaocorp.com/page/?lang=ENG&tab=all)
 - Developed [LOMIO](https://elseif.kakao.com/2020/session/99), in-house solution for real-time [CDC](https://en.wikipedia.org/wiki/Change_data_capture).  
 - Developed DAVINCI, in-house solution for importing large files to RDBMS. 
-- Developed [CMS for street view]([url](https://elseif.kakao.com/2020/session/95)).
+- Developed [CMS for street view](https://elseif.kakao.com/2020/session/95).
 
 # My problem solving skills are at...
 ## [Baekjoon Online Judge](https://www.acmicpc.net/)
