@@ -32,7 +32,7 @@ Python client for the Apache Kafka distributed stream processing system.
 MySQL to PostgreSQL replica system
 | Issue | summary | released in |
 | -- | ------- | ----------- |
-| [38c7a90](https://github.com/the4thdoctor/pg_chameleon/commit/38c7a907c36b10053bc0db5232a1cc9ecbfacf83#commitcomment-68371229) | The system crashes upon receiving DDL from MaraDB | [2.0.19](https://pypi.org/project/pg-chameleon/2.0.19/) |
+| [38c7a90](https://github.com/the4thdoctor/pg_chameleon/commit/38c7a907c36b10053bc0db5232a1cc9ecbfacf83#commitcomment-68371229) | The system crashes upon receiving DDL from MariaDB | [2.0.19](https://pypi.org/project/pg-chameleon/2.0.19/) |
 
 
 # My contribution at work includes...
