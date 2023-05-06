@@ -28,6 +28,13 @@ Python client for the Apache Kafka distributed stream processing system.
 | -- | ------- | ----------- |
 | [#2207](https://github.com/dpkp/kafka-python/pull/2207) | Fix description of kafka producer config | |
 
+## [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon)
+MySQL to PostgreSQL replica system
+| Issue | summary | released in |
+| -- | ------- | ----------- |
+| [38c7a90](https://github.com/the4thdoctor/pg_chameleon/commit/38c7a907c36b10053bc0db5232a1cc9ecbfacf83#commitcomment-68371229) | The system crashes upon receiving DDL from MaraDB | [2.0.19](https://pypi.org/project/pg-chameleon/2.0.19/) |
+
+
 # My contribution at work includes...
 ## TmaxTibero
 - Developed [Tibero](https://www.tmaxsoft.com/products/tibero/), high-performance, highly secure and highly scalable RDBMS.
