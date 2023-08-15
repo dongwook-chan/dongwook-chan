@@ -17,7 +17,7 @@ Pure Python implementation of MySQL replication protocol.
 | [#421](https://github.com/julien-duponchelle/python-mysql-replication/pull/421) | Fix typo in README.md | |
 
 ## [go-mysql](https://github.com/go-mysql-org/go-mysql)
-a powerful mysql toolset with Go
+A powerful mysql toolset with Go
 | PR | summary | released in |
 | -- | ------- | ----------- |
 | [#813](https://github.com/go-mysql-org/go-mysql/pull/813) | Add VisibilityBitmap to TableMapEvent | | 
