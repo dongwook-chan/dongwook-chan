@@ -69,7 +69,9 @@ MySQL to PostgreSQL replica system
 <a href="https://www.betagammasigma.org/about/what-is-bgs">
   <img src="https://higherlogicdownload.s3.amazonaws.com/BETAGAMMASIGMA/a8e50d81-26f2-4c75-9216-826808f3da50/UploadedImages/Member%20/key.jpg" alt="drawing" height="130" style="display:inline-block;"/>
 </a>
-  
+<a href="https://www.contribution.ac">
+  <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d1784bc-901b-4fd7-a7f3-837826f1ce6d%2F2023-OSSCA-Profile-Image_circle_thiner-outline_black.png&blockId=9c2a0fdb-61cf-431f-89b5-f655141b1519&width=128" alt="Open Source Contribution Academy 2023"/>
+</a>
 
 <!--
 **dongwook-chan/dongwook-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
