@@ -14,7 +14,8 @@ Pure Python implementation of MySQL replication protocol.
 | [#369](https://github.com/noplay/python-mysql-replication/pull/369) | Improve parse of `mts_accessed_dbs` (Bug fix for PR#360) | [0.29](https://pypi.org/project/mysql-replication/0.29/) |
 | [#397](https://github.com/noplay/python-mysql-replication/pull/397) | Parse MariaDB-only status variables (Bug fix for PR#360) | [0.31](https://pypi.org/project/mysql-replication/0.31/) |
 | [#421](https://github.com/julien-duponchelle/python-mysql-replication/pull/421) | Fix typo in README.md | |
-| | Implement optional metadata in table map event | |
+| [#446](https://github.com/julien-duponchelle/python-mysql-replication/pull/446) | Implement optional metadata in table map event | |
+| [#449](https://github.com/julien-duponchelle/python-mysql-replication/pull/449) | Incorporated extension and anchor into docker compose file | |
 
 ## [go-mysql](https://github.com/go-mysql-org/go-mysql)
 A powerful mysql toolset with Go
