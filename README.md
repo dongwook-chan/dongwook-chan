@@ -1,3 +1,5 @@
+[![An image of @dongwookchan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dongwookchan)](https://holopin.io/@dongwookchan)
+
 # My contribution to open source includes...
 ## [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
 Pure Python implementation of MySQL replication protocol.
@@ -71,7 +73,9 @@ MySQL to PostgreSQL replica system
 </a>
 <a href="https://www.contribution.ac">
   <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2d1784bc-901b-4fd7-a7f3-837826f1ce6d%2F2023-OSSCA-Profile-Image_circle_thiner-outline_black.png&blockId=9c2a0fdb-61cf-431f-89b5-f655141b1519&width=128" alt="Open Source Contribution Academy 2023"/>
-</a>
+</a>  
+
+
 
 <!--
 **dongwook-chan/dongwook-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
