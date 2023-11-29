@@ -1,4 +1,6 @@
-[![An image of @dongwookchan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dongwookchan)](https://holopin.io/@dongwookchan)
+# I am...
+- maintainer of [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)
+- SW engineer at [Kakao](https://www.kakaocorp.com/page/?lang=en)
 
 # My contribution to open source includes...
 ## [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
